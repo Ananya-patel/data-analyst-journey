@@ -1,0 +1,58 @@
+# 🚀 Data Analyst Journey — Zero to Professional
+
+**Started:** [Today's Date]
+**Target:** Professional Data Analyst Role at MNC level
+
+## 📚 About This Repository
+This repository documents my complete journey from zero to job-ready 
+Data Analyst. Built following a 24-week structured curriculum.
+
+## 🛠️ Tech Stack
+SQL | Python | Excel | Tableau | Power BI | Statistics | Cloud
+
+## 📁 Projects
+| Week | Project | Tools | Status |
+|------|---------|-------|--------|
+| 01 | Superstore Sales Analysis | Excel | ✅ Done |
+
+## 📊 Skills Progress
+- [ ] SQL Fundamentals
+- [ ] Python for Data Analysis
+- [ ] Data Visualization
+- [ ] Statistics
+- [ ] Dashboard Creation
+- [ ] Cloud Basics
+```
+
+---
+
+## DAY 3 — Excel Fundamentals
+
+I know what you're thinking. *"Excel? Really? I thought we'd be doing Python."*
+
+Here's the truth: **Every single business decision in an MNC starts with Excel.** Your PM, your manager, your client — they live in Excel. You need to speak their language.
+
+Also, Excel teaches you to think about data in tables — rows, columns, filters, formulas. These concepts directly map to SQL and Pandas.
+
+### Core Excel Concepts You Must Master
+
+**Understanding Data Structure:**
+Every dataset has:
+- **Rows** = individual records (one sale, one customer, one event)
+- **Columns** = attributes (name, date, amount, region)
+- **Values** = the actual data points
+
+This sounds obvious. Most beginners still mess it up. Never mix data types in a column. Never put two things in one cell. Never leave blank rows between data.
+
+**The 10 Excel Formulas Every Analyst Uses Daily:**
+```
+1.  VLOOKUP / XLOOKUP    → Merge data from two tables
+2.  IF / IFS             → Conditional logic
+3.  SUMIF / SUMIFS       → Conditional aggregation
+4.  COUNTIF / COUNTIFS   → Count with conditions
+5.  AVERAGE / AVERAGEIF  → Mean calculations
+6.  TEXT functions        → LEFT, RIGHT, MID, TRIM, CONCATENATE
+7.  DATE functions        → TODAY, DATEDIF, MONTH, YEAR
+8.  INDEX + MATCH         → More flexible than VLOOKUP
+9.  IFERROR              → Handle errors cleanly
+10. Pivot Tables          → The analyst's best friend
